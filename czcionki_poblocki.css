@@ -1,0 +1,88 @@
+p#akapit1_pobl
+{
+/* 
+sposób wyrównywania tekstu dla całego akapitu - do prawej
+rodzina czcionki 1 (patrz tabela „Sposób kodowania rodziny czcionek”) - serif
+kolory tekstu (patrz „pierwsza tabela kolorów” wg numeru w dzienniku) - pomarańczowe
+wcięcia tekstu: 3cm
+odstępy między: wierszami - 1,2cm
+odstępy między: wyrazami - 9px
+odstępy między: literami - 3ex
+*/
+text-align: right;
+font-family: serif;
+text-indent: 3cm;
+line-height: 1,2cm;
+word-spacing: 9px;
+letter-spacing: 3ex;
+}
+
+#z11_pobl /* zdanie pierwsze*/
+{
+color: #FF6347;
+font-variant: small-caps;
+font-style: italic;
+font-size: medium;
+font-weight: 600;
+}
+
+#z12_pobl /* zdanie pierwsze*/
+{
+color: #FF4500;
+text-transform: uppercase;
+font-size: xx-small;
+font-weight: 400;
+}
+
+#z13_pobl /* zdanie pierwsze*/
+{
+color: #FF8C00;
+text-decoration-line: overline;
+font-size: xx-large;
+font-weight: 800;
+}
+
+p#akapit2_pobl
+{
+/* 
+sposób wyrównywania tekstu dla całego akapitu - centrowany
+rodzina czcionki  (patrz tabela „Sposób kodowania rodziny czcionek”) - 2 - sans-serif
+kolory tekstu (patrz „pierwsza tabela kolorów” wg numeru w dzienniku) - zielony
+wcięcia tekstu: 15mm
+odstępy między: wierszami - 18mm
+odstępy między: wyrazami - 13pt
+odstępy między: literami - 0,3cm
+*/
+text-align: Center;
+font-family: sans-serif;
+text-indent: 15mm;
+line-height: 18mm;
+word-spacing: 13pt;
+letter-spacing: 0,3cm;
+}
+
+#z21_pobl /* zdanie pierwsze*/
+{
+color: #00fa9a;
+text-decoration-line: line-through;
+font-size: medium;
+font-weight: 600;
+}
+
+#z22_pobl /* zdanie pierwsze*/
+{
+color: #228b22;
+text-transform: capitalize;
+font-size: small;
+font-weight: 800;
+}
+
+#z23_pobl /* zdanie pierwsze*/
+{
+color: #556b2f;
+font-style: oblique;
+font-variant: small-caps;
+font-size: x-large;
+font-weight: 300;
+}
+

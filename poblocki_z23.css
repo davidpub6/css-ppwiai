@@ -1,0 +1,32 @@
+p#pogrubienie_poblocki {
+font-size: 33px;
+color: #8d5fd3;
+}
+
+p#pochylona_poblocki{
+font-size: 38pt;
+color: #f1c36f;
+}
+
+p#index_gorny_poblocki {
+font-size: 1.3cm;
+color: #1a911f;
+}
+
+p#index_dolny_poblocki {
+font-size: 2.1cm;
+color: rgb(24%, 96%, 91%);
+}
+
+p#mono_poblocki {
+font-size: 43px;
+color: #21e16f;
+}
+
+p#powiekszenie_poblocki {
+color: #5b41a1;
+}
+
+p#pomniejszenie_poblocki {
+color: rgb(75%, 65%, 24%);
+}
